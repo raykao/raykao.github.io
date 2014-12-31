@@ -1,7 +1,7 @@
 # Site settings
 title: Raymond Kao
 email: ray@raymondkao.com
-description: "Raymond Kao - Husband, Father of one, Developer, Educator and Partner at People & Code Inc. in Toronto, Ontario Canada."
+description: "Raymond Kao - Husband, Father of one, Software Developer, Educator and Partner at People & Code Inc. in Toronto, Ontario Canada."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.raymondkao.com" # the base hostname & protocol for your site
 twitter_username: raykao
