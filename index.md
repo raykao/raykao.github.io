@@ -27,7 +27,5 @@ grid_navigation:
     - title: Grid navigation
       excerpt: Section description
       cta: Read more
-      url: '#'
+      url: 'welcome-to-jekyll'
 ---
-
-[some link]({% post_url 2019-10-25-welcome-to-jekyll %})

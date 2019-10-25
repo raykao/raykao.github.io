@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
+
+[post]({% post_url 2019-10-25-consul-tls-in-practice %})
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
