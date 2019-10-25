@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl:
+    baseurl: https://www.raymondkao.com
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
@@ -20,14 +20,10 @@ doks:
                 image:
             copyright: Copyright &copy; 2017. - Project name <br>All rights reserved.
         social_list:
-            - network_name: facebook
-              profile_url: '#'
             - network_name: twitter
-              profile_url: '#'
-            - network_name: instagram
-              profile_url: '#'
-            - network_name: youtube
-              profile_url: '#'
+              profile_url: 'https://www.twitter.com/raykao'
+            - network_name: github
+              profile_url: 'https://github.com/raykao'
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:
