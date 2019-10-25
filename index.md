@@ -18,6 +18,8 @@ buttons:
 # Author box
 author:
     title: About Author
+    title_url: '#'
+    external_url: true
     description: Cloud Native/OSS Solutions Architect @Microsoft Azure Global Black Belt
 
 # Grid navigation
@@ -27,3 +29,5 @@ grid_navigation:
       cta: Read more
       url: '#'
 ---
+
+[some link]({% post_url 2019-10-25-welcome-to-jekyll %})
