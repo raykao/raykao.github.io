@@ -7,12 +7,8 @@ doks:
             text: Ray Kao
             image:
         nav:
-            - item_name: Item 1
-              item_url: '#'
-            - item_name: Item 2
-              item_url: '#'
-            - item_name: Item 3
-              item_url: '#'
+            - item_name: About
+              item_url: '/about'
     footer:
         content:
             logo:
@@ -38,4 +34,4 @@ sass:
 layouts_dir: ./doks-theme/_layouts
 includes_dir: ./doks-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md' ]
-permalink: /:title/
+permalink: none
